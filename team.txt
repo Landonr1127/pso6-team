@@ -1,3 +1,3 @@
 Team members: Landonr1127 and Partner
 Favorite programming language: TBD
-Team motto: Motto B - Commit early, commit often
+Team motto: Commit early, commit often, and it works on my machine
